@@ -1,3 +1,6 @@
-def sayHello(name):
-    print("Hello " + name)
-    return name
+def sayHello(firstname, lastname):
+    print("Hello " + firstname)
+    return {
+        "firstname": firstname,
+        "lastname": lastname
+    }

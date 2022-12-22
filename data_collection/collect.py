@@ -1,1 +1,2 @@
-username = input("Please enter your name: ")
+firstname = input("Please enter your firstname: ")
+lastname = input("Enter lastname: ")
